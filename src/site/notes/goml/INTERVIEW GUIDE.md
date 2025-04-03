@@ -1849,18 +1849,21 @@ git commit
 - Explain bias-variance tradeoff.
 - How do you handle missing data?
 - Explain overfitting and how to prevent it.
+- What is hallucination and how to prevent it.
 
 #### Algorithm-Specific
 - When would you use random forests vs. gradient boosting?
 - How does logistic regression differ from linear regression?
 - Explain the mathematics behind SVM.
 - How does backpropagation work in neural networks?
+- Explain various types of KNN.
 
 #### Practical Skills
 - How do you approach a new ML problem?
 - How do you evaluate model performance?
 - How would you deploy a model in production?
 - How do you handle imbalanced datasets?
+- How do you fix model hallucination in LLM?
 
 ### Behavioral Questions
 
